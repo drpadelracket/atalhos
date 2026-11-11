@@ -790,6 +790,20 @@ Como opción, si lo prefieres, también puedes indicarnos alguna pala que desees
 
 Además, ahora contamos con producción propia de palas, con la posibilidad de crear modelos 100 % personalizados o de venderlas en bruto a un precio muy competitivo.""")
 
+add("naocompensa", "CLIENTE DIZ QUE A REPARAÇÃO NÃO COMPENSA (AJUDA COMPRAR)",
+"""Compreendo perfeitamente 🙂
+
+Como opção, se for o caso, pode também indicar-nos alguma raquete que deseje comprar - conseguimos, na maioria dos casos, vendê-la a um preço abaixo do mínimo de mercado 😁
+Além disso, temos agora produção própria de raquetes, com possibilidade de criação de modelos 100% personalizados.""",
+"""I completely understand 🙂
+
+As an option, you can also let us know any racket you'd like to buy - in most cases, we can sell it to you below the lowest market price 😁
+We also now have our own racket production, with the possibility of creating 100% customised models.""",
+"""Lo entiendo perfectamente 🙂
+
+Como opción, si lo desea, también puede indicarnos alguna pala que quiera comprar - en la mayoría de los casos, podemos vendérsela por debajo del precio mínimo del mercado 😁
+Además, ahora tenemos producción propia de palas, con la posibilidad de crear modelos 100% personalizados.""")
+
 add("avancar", "ENVIAR A SEGUIR AO ORÇAMENTO (SEMPRE)",
 """Se desejar avançar indique-me por favor para lhe explicar como funciona a recolha.""",
 """If you’d like to proceed, please let me know so I can explain how the collection works.""",

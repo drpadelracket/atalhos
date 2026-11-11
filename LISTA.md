@@ -34,6 +34,7 @@ PT: `;nome` - EN: `;nomeen` - ES: `;nomees`. Escreve o atalho e carrega em espa�
 | `;orcrugoso` | ORÇAMENTO RUGOSO | PT, EN, ES |
 | `;orceuropa` | ORÇAMENTO REPARAÇÃO EUROPA | EN, ES |
 | `;semorc` | S/ORÇAMENTO + AJUDA COMPRAR | PT, EN, ES |
+| `;naocompensa` | CLIENTE DIZ QUE A REPARAÇÃO NÃO COMPENSA (AJUDA COMPRAR) | PT, EN, ES |
 | `;avancar` | ENVIAR A SEGUIR AO ORÇAMENTO (SEMPRE) | PT, EN, ES |
 | `;acabamento` | EXEMPLOS ACABAMENTO | PT, EN, ES |
 | `;envio` | ENVIO RAQUETE | PT, EN, ES |
