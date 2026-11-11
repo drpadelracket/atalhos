@@ -66,6 +66,8 @@ PT: `;nome` - EN: `;nomeen` - ES: `;nomees`. Escreve o atalho e carrega em espa�
 | `;dubai` | PERSONALIZAÇÃO - PRIMEIRA RESPOSTA (DUBAI) | EN |
 | `;galeria` | PERSONALIZAÇÃO - GALERIA DE EXEMPLOS | PT, EN, ES |
 | `;30` | PERSONALIZAÇÃO - DEPÓSITO 30% | PT, EN, ES |
+| `;adjudicado` | PERSONALIZAÇÃO - PÓS-PAGAMENTO ADJUDICAÇÃO (FICHA + TIMELINE + EXTRAS) | PT, EN, ES |
+| `;lficha` | LINK - FICHA DE PERSONALIZAÇÃO | PT |
 | `;original` | RAQUETE ORIGINAL VS MOLDE SEMELHANTE | PT, EN, ES |
 | `;vidro` | FIBRA DE VIDRO - SUGERIR NOVA PERSONALIZADA | PT, EN, ES |
 | `;oem` | MARCA PRÓPRIA / OEM - PRIMEIRA RESPOSTA | PT, EN, ES |

@@ -1330,6 +1330,43 @@ El 70% restante (X€) solo se paga cuando la pala esté lista y haya recibido f
 Plazo habitual: 1-2 semanas de producción + 2-4 días de transporte.
 ¿Le envío el enlace de pago?""")
 
+add("adjudicado", "PERSONALIZAÇÃO - PÓS-PAGAMENTO ADJUDICAÇÃO (FICHA + TIMELINE + EXTRAS)",
+"""Obrigado, pagamento recebido! O seu lugar na fila de produção está garantido.
+
+Próximos passos:
+
+1. Preencha a nossa ficha rápida (2 min), para a design team ter tudo certo desde o início: https://bit.ly/custom-racket-drpadel
+2. A design team prepara as maquetes e envia-as para aprovação. Revisões ilimitadas até ficar 100% satisfeito.
+3. Depois de aprovar, a raquete entra em produção. Enviamos fotos e vídeos antes do envio.
+
+Timeline completa do seu projeto: https://portal.drpadelracket.com/timeline
+
+Quer acrescentar algum extra? https://portal.drpadelracket.com/extras""",
+"""Thank you, payment received! Your spot in our production queue is now secured.
+
+Here's what happens next:
+
+1. Fill in our quick form (2 min) so our design team has everything right from the start: https://bit.ly/custom-racket-drpadel
+2. Our design team prepares your mockups and sends them for your approval. Unlimited revisions until you're 100% happy.
+3. Once you approve, your racket goes into production. We'll send you photos and videos before shipping.
+
+Full timeline of your project: https://portal.drpadelracket.com/timeline
+
+Would you like to add any extras? https://portal.drpadelracket.com/extras""",
+"""¡Gracias, pago recibido! Su lugar en la cola de producción está garantizado.
+
+Próximos pasos:
+
+1. Rellene nuestra ficha rápida (2 min), para que nuestro equipo de diseño tenga todo correcto desde el principio: https://bit.ly/custom-racket-drpadel
+2. Nuestro equipo de diseño prepara las maquetas y se las envía para su aprobación. Revisiones ilimitadas hasta que esté 100% satisfecho.
+3. Una vez aprobada, la pala entra en producción. Le enviamos fotos y vídeos antes del envío.
+
+Timeline completo de su proyecto: https://portal.drpadelracket.com/timeline
+
+¿Quiere añadir algún extra? https://portal.drpadelracket.com/extras""")
+
+add("lficha", "LINK - FICHA DE PERSONALIZAÇÃO", "https://bit.ly/custom-racket-drpadel")
+
 add("original", "RAQUETE ORIGINAL VS MOLDE SEMELHANTE",
 """Esta raquete é feita por nós com um molde semelhante ao original, não é a original da marca. As sensações podem ser parecidas, mas o peso e o toque não são exatamente iguais.""",
 """This racket is made by us with a mould similar to the original, it is not the brand's original racket. The feel can be similar, but the weight and touch are not exactly the same.""",
