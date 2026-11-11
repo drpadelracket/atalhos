@@ -1331,7 +1331,7 @@ Plazo habitual: 1-2 semanas de producción + 2-4 días de transporte.
 ¿Le envío el enlace de pago?""")
 
 add("adjudicado", "PERSONALIZAÇÃO - PÓS-PAGAMENTO ADJUDICAÇÃO (FICHA + TIMELINE + EXTRAS)",
-"""Obrigado, pagamento recebido! O seu lugar na fila de produção está garantido.
+"""Obrigado, pagamento recebido!
 
 Próximos passos:
 
@@ -1342,7 +1342,7 @@ Próximos passos:
 Timeline completa do seu projeto: https://portal.drpadelracket.com/timeline
 
 Quer acrescentar algum extra? https://portal.drpadelracket.com/extras""",
-"""Thank you, payment received! Your spot in our production queue is now secured.
+"""Thank you, payment received!
 
 Here's what happens next:
 
@@ -1353,7 +1353,7 @@ Here's what happens next:
 Full timeline of your project: https://portal.drpadelracket.com/timeline
 
 Would you like to add any extras? https://portal.drpadelracket.com/extras""",
-"""¡Gracias, pago recibido! Su lugar en la cola de producción está garantizado.
+"""¡Gracias, pago recibido!
 
 Próximos pasos:
 
